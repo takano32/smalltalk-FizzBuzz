@@ -1,3 +1,4 @@
+#!/usr/bin/env gst
 
 1 to: 100 do: [:n|
 	(n \\ 15 == 0) ifTrue: [
